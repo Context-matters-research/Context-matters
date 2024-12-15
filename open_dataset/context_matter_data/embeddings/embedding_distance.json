@@ -1,0 +1,802 @@
+[
+    {
+        "id": 3101004,
+        "question_context_similarity": 0.0645639453967856,
+        "question_response_similarity": 0.7394651888196959
+    },
+    {
+        "id": 3111004,
+        "question_context_similarity": 0.5352380422211361,
+        "question_response_similarity": 0.7646754761959108
+    },
+    {
+        "id": 3121004,
+        "question_context_similarity": 0.3393996374814804,
+        "question_response_similarity": 0.7287750067564548
+    },
+    {
+        "id": 3131004,
+        "question_context_similarity": 0.4114768843911203,
+        "question_response_similarity": 0.7133779906700849
+    },
+    {
+        "id": 2200002,
+        "question_context_similarity": 0.037245638477495714,
+        "question_response_similarity": 0.8579510701362394
+    },
+    {
+        "id": 2210002,
+        "question_context_similarity": 0.3305109182132567,
+        "question_response_similarity": 0.8120741985968324
+    },
+    {
+        "id": 2220002,
+        "question_context_similarity": 0.3715117869818502,
+        "question_response_similarity": 0.8138601659593958
+    },
+    {
+        "id": 2230002,
+        "question_context_similarity": 0.2855605325888404,
+        "question_response_similarity": 0.8345940704460252
+    },
+    {
+        "id": 1200005,
+        "question_context_similarity": 0.0547710438865518,
+        "question_response_similarity": 0.785696065769789
+    },
+    {
+        "id": 1210005,
+        "question_context_similarity": 0.6076509329670255,
+        "question_response_similarity": 0.8205776532074367
+    },
+    {
+        "id": 1220005,
+        "question_context_similarity": 0.3176701823427935,
+        "question_response_similarity": 0.8381090539712512
+    },
+    {
+        "id": 1230005,
+        "question_context_similarity": 0.2469737078659503,
+        "question_response_similarity": 0.780668343476647
+    },
+    {
+        "id": 1201002,
+        "question_context_similarity": 0.04735368008879626,
+        "question_response_similarity": 0.8262227424682316
+    },
+    {
+        "id": 1211002,
+        "question_context_similarity": 0.5484384343456788,
+        "question_response_similarity": 0.7855163077577617
+    },
+    {
+        "id": 1221002,
+        "question_context_similarity": 0.44134816354482875,
+        "question_response_similarity": 0.7574445302187404
+    },
+    {
+        "id": 1231002,
+        "question_context_similarity": 0.3372980053819387,
+        "question_response_similarity": 0.6873679537345164
+    },
+    {
+        "id": 2005003,
+        "question_context_similarity": 0.04441478834115688,
+        "question_response_similarity": 0.779996946256949
+    },
+    {
+        "id": 2015003,
+        "question_context_similarity": 0.6919796313219042,
+        "question_response_similarity": 0.7502837261494166
+    },
+    {
+        "id": 2025003,
+        "question_context_similarity": 0.35641662097637294,
+        "question_response_similarity": 0.7752190261351263
+    },
+    {
+        "id": 2035003,
+        "question_context_similarity": 0.14696040592158813,
+        "question_response_similarity": 0.7412257665192686
+    },
+    {
+        "id": 1001000,
+        "question_context_similarity": 0.05606674468337218,
+        "question_response_similarity": 0.7046127615524145
+    },
+    {
+        "id": 1011000,
+        "question_context_similarity": 0.5291095524250337,
+        "question_response_similarity": 0.7276348374095372
+    },
+    {
+        "id": 1021000,
+        "question_context_similarity": 0.36733128663609904,
+        "question_response_similarity": 0.716399241461711
+    },
+    {
+        "id": 1031000,
+        "question_context_similarity": 0.37801985640178276,
+        "question_response_similarity": 0.5965447339639403
+    },
+    {
+        "id": 2003003,
+        "question_context_similarity": 0.05228063042947596,
+        "question_response_similarity": 0.8195164236996128
+    },
+    {
+        "id": 2013003,
+        "question_context_similarity": 0.5080459627034524,
+        "question_response_similarity": 0.820335020753126
+    },
+    {
+        "id": 2023003,
+        "question_context_similarity": 0.29322115485712963,
+        "question_response_similarity": 0.8453601166204447
+    },
+    {
+        "id": 2033003,
+        "question_context_similarity": 0.1362896741619928,
+        "question_response_similarity": 0.8197254408642497
+    },
+    {
+        "id": 2005002,
+        "question_context_similarity": 0.019671814850281442,
+        "question_response_similarity": 0.7197758250683491
+    },
+    {
+        "id": 2015002,
+        "question_context_similarity": 0.37418588577557965,
+        "question_response_similarity": 0.7620570170628603
+    },
+    {
+        "id": 2025002,
+        "question_context_similarity": 0.5182598843677456,
+        "question_response_similarity": 0.6585852712107003
+    },
+    {
+        "id": 2035002,
+        "question_context_similarity": 0.1649750067047019,
+        "question_response_similarity": 0.7354148694568317
+    },
+    {
+        "id": 2100001,
+        "question_context_similarity": 0.04036158923810162,
+        "question_response_similarity": 0.7520588961534318
+    },
+    {
+        "id": 2110001,
+        "question_context_similarity": 0.3556864721151279,
+        "question_response_similarity": 0.7938161365595354
+    },
+    {
+        "id": 2120001,
+        "question_context_similarity": 0.41073040377529874,
+        "question_response_similarity": 0.7802988233008005
+    },
+    {
+        "id": 2130001,
+        "question_context_similarity": 0.28164767066686863,
+        "question_response_similarity": 0.7929131389652255
+    },
+    {
+        "id": 1101001,
+        "question_context_similarity": 0.04909403794793273,
+        "question_response_similarity": 0.7366432674077696
+    },
+    {
+        "id": 1111001,
+        "question_context_similarity": 0.6032220415146672,
+        "question_response_similarity": 0.7201173548685902
+    },
+    {
+        "id": 1121001,
+        "question_context_similarity": 0.36178853137671796,
+        "question_response_similarity": 0.7021382612059061
+    },
+    {
+        "id": 1131001,
+        "question_context_similarity": 0.28531680817247784,
+        "question_response_similarity": 0.7973130467465191
+    },
+    {
+        "id": 3201005,
+        "question_context_similarity": 0.05283455643955066,
+        "question_response_similarity": 0.7454963633926641
+    },
+    {
+        "id": 3211005,
+        "question_context_similarity": 0.5462776092069727,
+        "question_response_similarity": 0.748481239580514
+    },
+    {
+        "id": 3221005,
+        "question_context_similarity": 0.3080223931796722,
+        "question_response_similarity": 0.7088933212397706
+    },
+    {
+        "id": 3231005,
+        "question_context_similarity": 0.3825170306776725,
+        "question_response_similarity": 0.6512870464040365
+    },
+    {
+        "id": 2002003,
+        "question_context_similarity": 0.08398995265233943,
+        "question_response_similarity": 0.7665908027572721
+    },
+    {
+        "id": 2012003,
+        "question_context_similarity": 0.7275686191875128,
+        "question_response_similarity": 0.7195703830991823
+    },
+    {
+        "id": 2022003,
+        "question_context_similarity": 0.4707560206288188,
+        "question_response_similarity": 0.7915978114502216
+    },
+    {
+        "id": 2032003,
+        "question_context_similarity": 0.20826028236443295,
+        "question_response_similarity": 0.7968687031006563
+    },
+    {
+        "id": 2203002,
+        "question_context_similarity": 0.07370162419303943,
+        "question_response_similarity": 0.8229644907614402
+    },
+    {
+        "id": 2213002,
+        "question_context_similarity": 0.5851778788075922,
+        "question_response_similarity": 0.7957338154362823
+    },
+    {
+        "id": 2223002,
+        "question_context_similarity": 0.28857174086280524,
+        "question_response_similarity": 0.8210489320631239
+    },
+    {
+        "id": 2233002,
+        "question_context_similarity": 0.24772817281890042,
+        "question_response_similarity": 0.8142182855926479
+    },
+    {
+        "id": 3202008,
+        "question_context_similarity": 0.07454252938113266,
+        "question_response_similarity": 0.48612084058183663
+    },
+    {
+        "id": 3212008,
+        "question_context_similarity": 0.4150086981824204,
+        "question_response_similarity": 0.6113037789619487
+    },
+    {
+        "id": 3222008,
+        "question_context_similarity": 0.41410177705697754,
+        "question_response_similarity": 0.48575377568028816
+    },
+    {
+        "id": 3232008,
+        "question_context_similarity": 0.20761453510836508,
+        "question_response_similarity": 0.5696217755153076
+    },
+    {
+        "id": 2003001,
+        "question_context_similarity": 0.02047797809387175,
+        "question_response_similarity": 0.7949907051752872
+    },
+    {
+        "id": 2013001,
+        "question_context_similarity": 0.4446925038348301,
+        "question_response_similarity": 0.8409819152889472
+    },
+    {
+        "id": 2023001,
+        "question_context_similarity": 0.5703869879261216,
+        "question_response_similarity": 0.8217381215919993
+    },
+    {
+        "id": 2033001,
+        "question_context_similarity": 0.3854176929539953,
+        "question_response_similarity": 0.82795011962517
+    },
+    {
+        "id": 3204006,
+        "question_context_similarity": 0.0714410002926261,
+        "question_response_similarity": 0.9197175134600313
+    },
+    {
+        "id": 3214006,
+        "question_context_similarity": 0.444029138155932,
+        "question_response_similarity": 0.9134152133248383
+    },
+    {
+        "id": 3224006,
+        "question_context_similarity": 0.4032751849034908,
+        "question_response_similarity": 0.8893824094822523
+    },
+    {
+        "id": 3234006,
+        "question_context_similarity": 0.23136738961488768,
+        "question_response_similarity": 0.9089196055019099
+    },
+    {
+        "id": 1005001,
+        "question_context_similarity": 0.02367913082757247,
+        "question_response_similarity": 0.7704571624077968
+    },
+    {
+        "id": 1015001,
+        "question_context_similarity": 0.5979273121387527,
+        "question_response_similarity": 0.733795882577539
+    },
+    {
+        "id": 1025001,
+        "question_context_similarity": 0.40601730058828045,
+        "question_response_similarity": 0.7428882520921364
+    },
+    {
+        "id": 1035001,
+        "question_context_similarity": 0.14543886754893848,
+        "question_response_similarity": 0.7496893774376958
+    },
+    {
+        "id": 3001003,
+        "question_context_similarity": 0.06660815283275068,
+        "question_response_similarity": 0.7502596960219793
+    },
+    {
+        "id": 3011003,
+        "question_context_similarity": 0.5442015955272883,
+        "question_response_similarity": 0.8035623049252585
+    },
+    {
+        "id": 3021003,
+        "question_context_similarity": 0.30546307353272484,
+        "question_response_similarity": 0.7242577882369023
+    },
+    {
+        "id": 3031003,
+        "question_context_similarity": 0.40252822446565695,
+        "question_response_similarity": 0.7916690991823886
+    },
+    {
+        "id": 3204001,
+        "question_context_similarity": 0.0542772853883391,
+        "question_response_similarity": 0.8236668458100866
+    },
+    {
+        "id": 3214001,
+        "question_context_similarity": 0.49652913877432986,
+        "question_response_similarity": 0.808993881207858
+    },
+    {
+        "id": 3224001,
+        "question_context_similarity": 0.40775234778014247,
+        "question_response_similarity": 0.8213218054856518
+    },
+    {
+        "id": 3234001,
+        "question_context_similarity": 0.3204427729818628,
+        "question_response_similarity": 0.8075924471395217
+    },
+    {
+        "id": 1102001,
+        "question_context_similarity": 0.0409133701399706,
+        "question_response_similarity": 0.8091064526263032
+    },
+    {
+        "id": 1112001,
+        "question_context_similarity": 0.5386635224183621,
+        "question_response_similarity": 0.7361582551072018
+    },
+    {
+        "id": 1122001,
+        "question_context_similarity": 0.3410810499120369,
+        "question_response_similarity": 0.7709611366402477
+    },
+    {
+        "id": 1132001,
+        "question_context_similarity": 0.15748434603418648,
+        "question_response_similarity": 0.7836430586507132
+    },
+    {
+        "id": 1202002,
+        "question_context_similarity": 0.046870255256452956,
+        "question_response_similarity": 0.8358037194365756
+    },
+    {
+        "id": 1212002,
+        "question_context_similarity": 0.46348115711525967,
+        "question_response_similarity": 0.8160825971331599
+    },
+    {
+        "id": 1222002,
+        "question_context_similarity": 0.514563472967968,
+        "question_response_similarity": 0.8296708091718951
+    },
+    {
+        "id": 1232002,
+        "question_context_similarity": 0.040378498351978105,
+        "question_response_similarity": 0.7949112188398756
+    },
+    {
+        "id": 1003000,
+        "question_context_similarity": 0.012734092276838853,
+        "question_response_similarity": 0.8163740007685528
+    },
+    {
+        "id": 1013000,
+        "question_context_similarity": 0.7119641059245816,
+        "question_response_similarity": 0.807721817650879
+    },
+    {
+        "id": 1023000,
+        "question_context_similarity": 0.49265383076137537,
+        "question_response_similarity": 0.8039332321664203
+    },
+    {
+        "id": 1033000,
+        "question_context_similarity": 0.27815565524854063,
+        "question_response_similarity": 0.7972706049965087
+    },
+    {
+        "id": 3204004,
+        "question_context_similarity": 0.05604132154060868,
+        "question_response_similarity": 0.801248910132515
+    },
+    {
+        "id": 3214004,
+        "question_context_similarity": 0.44225991342983617,
+        "question_response_similarity": 0.8326934168287315
+    },
+    {
+        "id": 3224004,
+        "question_context_similarity": 0.38281295248300096,
+        "question_response_similarity": 0.8058400025583429
+    },
+    {
+        "id": 3234004,
+        "question_context_similarity": 0.16569249079001822,
+        "question_response_similarity": 0.8243754437203286
+    },
+    {
+        "id": 2003004,
+        "question_context_similarity": 0.07106682772235001,
+        "question_response_similarity": 0.7637206245292806
+    },
+    {
+        "id": 2013004,
+        "question_context_similarity": 0.41437114861146523,
+        "question_response_similarity": 0.8021062957031296
+    },
+    {
+        "id": 2023004,
+        "question_context_similarity": 0.38084854363250864,
+        "question_response_similarity": 0.777132679691656
+    },
+    {
+        "id": 2033004,
+        "question_context_similarity": 0.2881370121560563,
+        "question_response_similarity": 0.8075350361481421
+    },
+    {
+        "id": 1002000,
+        "question_context_similarity": 0.03859084225226935,
+        "question_response_similarity": 0.7190367670571768
+    },
+    {
+        "id": 1012000,
+        "question_context_similarity": 0.5109961136586139,
+        "question_response_similarity": 0.7825245126538741
+    },
+    {
+        "id": 1022000,
+        "question_context_similarity": 0.5045420323978178,
+        "question_response_similarity": 0.8065545735618512
+    },
+    {
+        "id": 1032000,
+        "question_context_similarity": 0.31524923880534905,
+        "question_response_similarity": 0.7912771051627544
+    },
+    {
+        "id": 3204003,
+        "question_context_similarity": 0.07853606653250542,
+        "question_response_similarity": 0.7713334610610567
+    },
+    {
+        "id": 3214003,
+        "question_context_similarity": 0.593729895665359,
+        "question_response_similarity": 0.7061873749115741
+    },
+    {
+        "id": 3224003,
+        "question_context_similarity": 0.43255362286005145,
+        "question_response_similarity": 0.7568433879859138
+    },
+    {
+        "id": 3234003,
+        "question_context_similarity": 0.25555616573985385,
+        "question_response_similarity": 0.7808272552304195
+    },
+    {
+        "id": 3102007,
+        "question_context_similarity": 0.05685481102992611,
+        "question_response_similarity": 0.8065729153925593
+    },
+    {
+        "id": 3112007,
+        "question_context_similarity": 0.3248868196303098,
+        "question_response_similarity": 0.833153666454927
+    },
+    {
+        "id": 3122007,
+        "question_context_similarity": 0.7386894273312095,
+        "question_response_similarity": 0.7334556455456142
+    },
+    {
+        "id": 3132007,
+        "question_context_similarity": 0.14054230054767003,
+        "question_response_similarity": 0.7662545039728457
+    },
+    {
+        "id": 1005000,
+        "question_context_similarity": 0.012734092276838853,
+        "question_response_similarity": 0.773655313861168
+    },
+    {
+        "id": 1015000,
+        "question_context_similarity": 0.7119641059245816,
+        "question_response_similarity": 0.8191816668323817
+    },
+    {
+        "id": 1025000,
+        "question_context_similarity": 0.4926654944322227,
+        "question_response_similarity": 0.8098291910788453
+    },
+    {
+        "id": 1035000,
+        "question_context_similarity": 0.27811170390861845,
+        "question_response_similarity": 0.7984072530986218
+    },
+    {
+        "id": 3204002,
+        "question_context_similarity": 0.09925477696736493,
+        "question_response_similarity": 0.765347555003075
+    },
+    {
+        "id": 3214002,
+        "question_context_similarity": 0.6511056400262226,
+        "question_response_similarity": 0.7792344957008784
+    },
+    {
+        "id": 3224002,
+        "question_context_similarity": 0.3513759554648364,
+        "question_response_similarity": 0.742891854112671
+    },
+    {
+        "id": 3234002,
+        "question_context_similarity": 0.149995322850082,
+        "question_response_similarity": 0.7374469894264198
+    },
+    {
+        "id": 3204000,
+        "question_context_similarity": 0.08898791131961026,
+        "question_response_similarity": 0.7922133636119821
+    },
+    {
+        "id": 3214000,
+        "question_context_similarity": 0.4899626760413143,
+        "question_response_similarity": 0.8404830741808192
+    },
+    {
+        "id": 3224000,
+        "question_context_similarity": 0.2470563124122977,
+        "question_response_similarity": 0.7952962745687268
+    },
+    {
+        "id": 3234000,
+        "question_context_similarity": 0.2547491396632374,
+        "question_response_similarity": 0.7957646061253341
+    },
+    {
+        "id": 2102004,
+        "question_context_similarity": 0.040740455852662935,
+        "question_response_similarity": 0.7889612784210125
+    },
+    {
+        "id": 2112004,
+        "question_context_similarity": 0.5482968758941223,
+        "question_response_similarity": 0.7072683118704102
+    },
+    {
+        "id": 2122004,
+        "question_context_similarity": 0.36855547209224276,
+        "question_response_similarity": 0.8181057761914008
+    },
+    {
+        "id": 2132004,
+        "question_context_similarity": 0.3077883774417068,
+        "question_response_similarity": 0.772470322409839
+    },
+    {
+        "id": 2202005,
+        "question_context_similarity": 0.08491183535436658,
+        "question_response_similarity": 0.7256930977839631
+    },
+    {
+        "id": 2212005,
+        "question_context_similarity": 0.43384450532776864,
+        "question_response_similarity": 0.6759445615911385
+    },
+    {
+        "id": 2222005,
+        "question_context_similarity": 0.2281412051554913,
+        "question_response_similarity": 0.722993352362014
+    },
+    {
+        "id": 2232005,
+        "question_context_similarity": 0.0664373439301924,
+        "question_response_similarity": 0.737062000600249
+    },
+    {
+        "id": 3002006,
+        "question_context_similarity": 0.09959108601461612,
+        "question_response_similarity": 0.7966755236619032
+    },
+    {
+        "id": 3012006,
+        "question_context_similarity": 0.5958097392466182,
+        "question_response_similarity": 0.7775254565483093
+    },
+    {
+        "id": 3022006,
+        "question_context_similarity": 0.21775020668662712,
+        "question_response_similarity": 0.7562260097588613
+    },
+    {
+        "id": 3032006,
+        "question_context_similarity": 0.07947292059993881,
+        "question_response_similarity": 0.7836137121655157
+    },
+    {
+        "id": 3005005,
+        "question_context_similarity": 0.05366298499417752,
+        "question_response_similarity": 0.7539224524607616
+    },
+    {
+        "id": 3015005,
+        "question_context_similarity": 0.6009450617333899,
+        "question_response_similarity": 0.7646994045387987
+    },
+    {
+        "id": 3025005,
+        "question_context_similarity": 0.5739637182503401,
+        "question_response_similarity": 0.7929584399536667
+    },
+    {
+        "id": 3035005,
+        "question_context_similarity": 0.1933252417419931,
+        "question_response_similarity": 0.806841121423773
+    },
+    {
+        "id": 1100004,
+        "question_context_similarity": 0.03259150210090124,
+        "question_response_similarity": 0.7387487849482199
+    },
+    {
+        "id": 1110004,
+        "question_context_similarity": 0.6104633498000476,
+        "question_response_similarity": 0.7479708770808351
+    },
+    {
+        "id": 1120004,
+        "question_context_similarity": 0.24921311758060766,
+        "question_response_similarity": 0.7859572236045025
+    },
+    {
+        "id": 1130004,
+        "question_context_similarity": 0.19836794773763095,
+        "question_response_similarity": 0.8033740777474887
+    },
+    {
+        "id": 3000006,
+        "question_context_similarity": 0.055969571125206535,
+        "question_response_similarity": 0.809832156516663
+    },
+    {
+        "id": 3010006,
+        "question_context_similarity": 0.6254076180564014,
+        "question_response_similarity": 0.7990213138816722
+    },
+    {
+        "id": 3020006,
+        "question_context_similarity": 0.46657274837242557,
+        "question_response_similarity": 0.7936885836738834
+    },
+    {
+        "id": 3030006,
+        "question_context_similarity": 0.41725836556767665,
+        "question_response_similarity": 0.7691329073786208
+    },
+    {
+        "id": 1000003,
+        "question_context_similarity": 0.03708813144477736,
+        "question_response_similarity": 0.7319791599008537
+    },
+    {
+        "id": 1010003,
+        "question_context_similarity": 0.6386527822644533,
+        "question_response_similarity": 0.7739116770127449
+    },
+    {
+        "id": 1020003,
+        "question_context_similarity": 0.31312993530703515,
+        "question_response_similarity": 0.7835057605927407
+    },
+    {
+        "id": 1030003,
+        "question_context_similarity": 0.23885855929703423,
+        "question_response_similarity": 0.6961729421476925
+    },
+    {
+        "id": 3204005,
+        "question_context_similarity": 0.06457052348245976,
+        "question_response_similarity": 0.8159180567377109
+    },
+    {
+        "id": 3214005,
+        "question_context_similarity": 0.30687761864482993,
+        "question_response_similarity": 0.8360193679979009
+    },
+    {
+        "id": 3224005,
+        "question_context_similarity": 0.4554141503803351,
+        "question_response_similarity": 0.857620298532592
+    },
+    {
+        "id": 3234005,
+        "question_context_similarity": 0.2843817019382482,
+        "question_response_similarity": 0.7947977072928509
+    },
+    {
+        "id": 2000000,
+        "question_context_similarity": 0.020366354515011058,
+        "question_response_similarity": 0.7748371906944094
+    },
+    {
+        "id": 2010000,
+        "question_context_similarity": 0.3546356841015484,
+        "question_response_similarity": 0.7429853036537273
+    },
+    {
+        "id": 2020000,
+        "question_context_similarity": 0.43304435689166426,
+        "question_response_similarity": 0.8457298605824413
+    },
+    {
+        "id": 2030000,
+        "question_context_similarity": 0.27185815952569004,
+        "question_response_similarity": 0.8108604438432212
+    },
+    {
+        "id": 1005004,
+        "question_context_similarity": 0.02332376958163928,
+        "question_response_similarity": 0.6644749965819307
+    },
+    {
+        "id": 1015004,
+        "question_context_similarity": 0.5391928746570408,
+        "question_response_similarity": 0.7635950748689487
+    },
+    {
+        "id": 1025004,
+        "question_context_similarity": 0.3290153906523298,
+        "question_response_similarity": 0.6842704108306157
+    },
+    {
+        "id": 1035004,
+        "question_context_similarity": 0.2860002646491501,
+        "question_response_similarity": 0.7443666315190193
+    }
+]
